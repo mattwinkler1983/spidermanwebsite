@@ -1,11 +1,8 @@
-body {
-    color: purple;
-}
-
 button {
-    background-color: hotpink
+    background-color: hotpink;
 }
 
 body {
-    background-color: pink;
+    background-color: rgb(181, 92, 135);
+    color: white;
 }
