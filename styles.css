@@ -1,7 +1,10 @@
 h1 { 
-    
-color: green;
+    test-align: center;
 
+}
+
+h1 {
+    color: green;
 }
 
 h2 { 
