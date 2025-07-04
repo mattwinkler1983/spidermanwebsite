@@ -3,7 +3,7 @@
 } */
 
 body {
-    background-color: #f1faee;
+    background-color: #eef6fa;
 }
 
 button {
@@ -12,7 +12,7 @@ button {
 }
 
 h1,h2 {
-    color: #1d3557;
+    color: #571d1d;
 }
 
 #signup{
@@ -21,7 +21,7 @@ h1,h2 {
 }
 
 span {
-    color: #457b9d;
+    color: rgb(128, 0, 100);
 }
 
 .tag {
