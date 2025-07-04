@@ -20,4 +20,6 @@ p {
 p { background-color: black
 ;
 }
-
+li {
+    color: blue;
+}
