@@ -4,7 +4,17 @@
 
 /* Make the element with the id of 'clear' have a red BG and white text */
 /* in this example class is "grey" and id is "clear" */
+/* Descendant selector: Its for selecting something within something.  For instance a "button" within a "li"
+example of Descendant Selector:  
 
+li button { 
+    color:purple;
+} */
+
+li button {
+        color: purple;
+        background-color: gold;
+}
 li { 
     color: blue;
 }
